@@ -1,0 +1,56 @@
+[
+    {
+      "id": "1",
+      "event_type": "Conferences and Seminars",
+      "description": "Large-scale events where industry experts share insights and knowledge through keynote addresses, panel discussions, and workshops.",
+      "event_image": "https://i.ibb.co/mBSJmVH/image.png"
+    },
+    {
+      "id": "2",
+      "event_type": "Trade Shows and Expos",
+      "description": "Bustling marketplaces where businesses exhibit their latest products, services, and innovations to a diverse audience.",
+      "event_image": " https://i.ibb.co/TYyR1GG/image.png "
+    },
+    {
+      "id": "3",
+      "event_type": "Team Building Workshops",
+      "description": "Carefully designed activities that encourage teamwork, problem-solving, and interpersonal skills among employees.",
+      "event_image": " https://i.ibb.co/16b0vMQ/image.png "
+    },
+    {
+      "id": "4",
+      "event_type": "Product Launches",
+      "description": "Glamorous events that unveil new products or services to a captivated audience through product showcases and interactive experiences.",
+      "event_image": " https://i.ibb.co/VMG2M6G/image.png "
+    },
+    {
+      "id": "5",
+      "event_type": "Corporate Meetings",
+      "description": "Internal gatherings for discussing company strategies, goals, financial performance, and operational matters.",
+      "event_image": " https://i.ibb.co/bQ31cPk/image.png "
+    },
+    {
+      "id": "6",
+      "event_type": "Award Ceremonies",
+      "description": "Prestigious occasions for recognizing and celebrating outstanding achievements within the organization and the broader industry.",
+      "event_image": " https://i.ibb.co/nm9xGfj/image.png "
+    },
+    {
+      "id": "7",
+      "event_type": "Seminars and Workshops",
+      "description": "In-depth educational sessions that provide valuable knowledge and practical takeaways, often led by expert speakers.",
+      "event_image": " https://i.ibb.co/jv0xyk6/image.png "
+    },
+    {
+      "id": "8",
+      "event_type": "Networking Events",
+      "description": "Opportunities for professionals to expand their contacts, build meaningful relationships, and explore collaborations.",
+      "event_image": "https://i.ibb.co/tX19b5d/image.png"
+    },
+    {
+      "id": "9",
+      "event_type": "Gala Dinners",
+      "description": "Sophisticated evening affairs that combine fine dining, entertainment, and often serve as fundraising events for charitable causes.",
+      "event_image": " https://i.ibb.co/VTpXNQK/image.png "
+    }
+  ]

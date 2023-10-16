@@ -1,0 +1,307 @@
+[
+    {
+      "id": "1",
+      "thambel": "https://i.ibb.co/J7xPczh/Event-Concept-and-Design.jpg",
+      "service_name": "Event Concept and Design",
+      "description": "Create unique event concepts and designs tailored to the client's brand and objectives. This includes choosing themes, color schemes, decor, and overall aesthetics to set the tone for the event.",
+      "price": 29.99,
+      "team": [
+        {
+          "idT": "11",
+          "name": "Ruby",
+          "email": "leader1@example.com",
+          "post_category": "Team Leader",
+          "image": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+          "idT": "12",
+          "name": "Anastasia",
+          "email": "member1@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/1.jpg"
+        },
+        {
+          "idT": "13",
+          "name": "Grace",
+          "email": "member2@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        {
+          "idT": "14",
+          "name": "Seraphina",
+          "email": "member3@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        {
+          "idT": "15",
+          "name": "Elise",
+          "email": "member4@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/3.jpg"
+        },
+        {
+          "idT": "16",
+          "name": "Evangeline",
+          "email": "member5@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "service_name": "Venue Selection and Management",
+	    "thambel": "https://i.ibb.co/rHjZdWv/Venue-Selection-and-Management.jpg",
+      "description": "Assist clients in finding the perfect venue for their corporate event. This service includes negotiating contracts, coordinating site visits, and managing logistics such as seating arrangements, audiovisual equipment, and catering facilities.",
+      "price": 39.99,
+      "team": [
+        {
+          "idT": "21",
+          "name": "Nadiya",
+          "email": "leader2@example.com",
+          "post_category": "Team Leader",
+          "image": "https://randomuser.me/api/portraits/women/4.jpg"
+        },        
+        {
+          "idT": "22",
+          "name": "Sakib",
+          "email": "member7@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/5.jpg"
+        },
+        {
+          "idT": "23",
+          "name": "Amena",
+          "email": "member8@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/5.jpg"
+        },
+        {
+          "idT": "24",
+          "name": "Morshed",
+          "email": "member9@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/6.jpg"
+        },
+        {
+          "idT": "25",
+          "name": "Shifa",
+          "email": "member10@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/6.jpg"
+        },
+        {
+          "idT": "26",
+          "name": "Tanvir",
+          "email": "member11@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/7.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "thambel": "https://i.ibb.co/ncFFcKv/Event-Logistics-and-Coordination.webp",
+      "service_name": "Event Logistics and Coordination",
+      "description": "Handle the intricate details of event logistics, including vendor coordination, transportation, scheduling, and on-site management. Ensuring that everything runs smoothly on the day of the event is essential for client satisfaction.",
+      "price": 25.99,
+      "team": [
+        {
+          "idT": "31",
+          "name": "Robel",
+          "email": "leader3@example.com",
+          "post_category": "Team Leader",
+          "image": "https://randomuser.me/api/portraits/men/8.jpg"
+        },
+        {
+          "idT": "32",
+          "name": "Shika",
+          "email": "member13@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/8.jpg"
+        },
+        {
+          "idT": "33",
+          "name": "Abrar",
+          "email": "member14@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/9.jpg"
+        },
+        {
+          "idT": "34",
+          "name": "Rohima",
+          "email": "member15@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/9.jpg"
+        },
+        {
+          "idT": "35",
+          "name": "Fahim",
+          "email": "member16@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/10.jpg"
+        },
+        {
+          "idT": "36",
+          "name": "Sokina",
+          "email": "member17@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/10.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "service_name": "Entertainment and Speakers",
+      "thambel": "https://i.ibb.co/Yj0tYv0/Entertainment-and-Speakers.jpg",
+      "description": "Source and book entertainment options such as live bands, DJs, keynote speakers, or celebrity appearances, depending on the event's nature and purpose. Ensure that entertainment aligns with the event's theme and audience.",
+      "team": [
+        {
+          "idT": "41",
+          "name": "Afrin",
+          "email": "leader4@example.com",
+          "post_category": "Team Leader",
+          "image": "https://randomuser.me/api/portraits/women/11.jpg"
+        },
+        {
+          "idT": "42",
+          "name": "Jon",
+          "email": "member19@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/12.jpg"
+        },
+        {
+          "idT": "43",
+          "name": "Tasnim",
+          "email": "member20@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        {
+          "idT": "44",
+          "name": "Jalal",
+          "email": "member21@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/13.jpg"
+        },
+        {
+          "idT": "45",
+          "name": "Sadiya",
+          "email": "member22@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/13.jpg"
+        },
+        {
+          "idT": "46",
+          "name": "Nahid",
+          "email": "member23@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/14.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "service_name": "Technology and Audiovisual Support",
+      "thambel": "https://i.ibb.co/ySHpyCn/Technology-and-Audiovisual-Support.png",
+      "description": "Provide cutting-edge audiovisual solutions, including sound systems, lighting, screens, and live-streaming capabilities for virtual or hybrid events. Offer technical support to ensure all equipment runs flawlessly during the event.",
+      "price": 29.99,
+      "team": [
+        {
+          "idT": "51",
+          "name": "Sayed",
+          "email": "leader5@example.com",
+          "post_category": "Team Leader",
+          "image": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        {
+          "idT": "52",
+          "name": "Asma",
+          "email": "member25@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/15.jpg"
+        },
+        {
+          "idT": "53",
+          "name": "Sahjahan",
+          "email": "member26@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/16.jpg"
+        },
+        {
+          "idT": "54",
+          "name": "Shakiya",
+          "email": "member27@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/16.jpg"
+        },
+        {
+          "idT": "55",
+          "name": "Arfat",
+          "email": "member28@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/17.jpg"
+        },
+        {
+          "idT": "56",
+          "name": "Srishti",
+          "email": "member29@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/17.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "service_name": "Customized Marketing and Promotion",
+      "thambel": "https://i.ibb.co/HhZwM09/Customized-Marketing-and-Promotion.png",
+      "description": "Assist clients in marketing and promoting their corporate events. This may involve creating event websites, designing marketing materials, managing social media campaigns, and handling ticketing or registration processes.",
+      "price": 35.99,
+      "team": [
+        {
+          "idT": "61",
+          "name": "Shanjida",
+          "email": "leader6@example.com",
+          "post_category": "Team Leader",
+          "image": "https://randomuser.me/api/portraits/women/18.jpg"
+        },
+        {
+          "idT": "62",
+          "name": "Morad",
+          "email": "member31@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/19.jpg"
+        },
+        {
+          "idT": "63",
+          "name": "Jesmin",
+          "email": "member32@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/19.jpg"
+        },
+        {
+          "idT": "64",
+          "name": "Tahmid",
+          "email": "member33@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/20.jpg"
+        },
+        {
+          "idT": "65",
+          "name": "Saiful",
+          "email": "member34@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/women/20.jpg"
+        },
+        {
+          "idT": "66",
+          "name": "Tawsif",
+          "email": "member35@example.com",
+          "post_category": "Team Member",
+          "image": "https://randomuser.me/api/portraits/men/21.jpg"
+        }
+      ]
+    }
+  ]
